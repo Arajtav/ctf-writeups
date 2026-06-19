@@ -1,4 +1,3 @@
-
 ---
 solver: Arajtav
 points: 100
