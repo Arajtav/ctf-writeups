@@ -1,6 +1,6 @@
 ---
 solver: Arajtav
-points: 200
+points: 100
 ---
 
 # Description
